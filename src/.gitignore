@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled
+out/
+*.class
+
+# Känsliga uppgifter
+config.properties
